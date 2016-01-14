@@ -1,0 +1,10 @@
+    1  pwd
+    2  cd e:
+    3  cd c:
+    4  ls
+    5  cd gitrepro
+    6  ls
+    7  git init
+    8  git status
+    9  history
+   10  history > history.txt
