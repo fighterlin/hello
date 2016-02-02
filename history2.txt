@@ -1,0 +1,36 @@
+    1  pwd
+    2  cd e:
+    3  cd c:
+    4  ls
+    5  cd gitrepro
+    6  ls
+    7  git init
+    8  git status
+    9  history
+   10  history > history.txt
+   11  ls
+   12  git status
+   13  git add history.txt
+   14  ls
+   15  git add history.txt HowtoHacker.txt
+   16  ls
+   17  git add --all
+   18  git status
+   19  git commit -m "the first commit of history.txt and howtohacker.txt"
+   20  git config --global user.email "monster.monster434@gmail.com"
+   21  git config --global user.name "fighterlin"
+   22  git commit -m "the first commit of history.txt and howtohacker.txt"
+   23  git log
+   24  git remote -v
+   25  git remote add origin https://github.com/fighterlin/hello
+   26  git remote -v
+   27  git pull origin master
+   28  pwd
+   29  cd e:
+   30  cd c:
+   31  ls
+   32  cd gitrepro
+   33  git status
+   34  ls
+   35  history
+   36  history > history2.txt
